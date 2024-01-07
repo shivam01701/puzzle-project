@@ -1,1 +1,1 @@
-# puzzle-project
+# Puzzle-mini-project
